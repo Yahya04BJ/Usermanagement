@@ -7,6 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class UserManagementApplicationTests {
 
 	@Test
+
+	// this new commit form soufiane
 	void contextLoads() {
 	}
 
